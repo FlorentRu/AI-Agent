@@ -7,11 +7,11 @@ An intelligent assistant with persistent memory built using LLM that remembers u
 
 ## Key Features
 
-- ** Persistent Memory**: Stores user details and facts across sessions
-- ** Natural Conversations**: Human-like interaction with context awareness
-- ** Knowledge Recall**: Retrieves stored information when needed
-- ** Technical Capabilities**: Handles both casual chats and technical queries
-- ** Easy Deployment**: Ready for Colab or local deployment
+- **Persistent Memory**: Stores user details and facts across sessions
+- **Natural Conversations**: Human-like interaction with context awareness
+- **Knowledge Recall**: Retrieves stored information when needed
+- **Technical Capabilities**: Handles both casual chats and technical queries
+- **Easy Deployment**: Ready for Colab or local deployment
 
 ## Business Applications
 
@@ -63,6 +63,7 @@ Memory Manager (JSON storage)
        ↓
        
 Large Language Model
+
        ↓
        
 Response Generator
