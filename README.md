@@ -1,6 +1,6 @@
 # AI Agent: Memory-Augmented LLM Assistant
 
-## Link to the project: ## https://colab.research.google.com/drive/1ziu5ntvfhuzZ2_6yMOzdhHvl4Buey31k?usp=sharing
+## Link to the project: https://colab.research.google.com/drive/1ziu5ntvfhuzZ2_6yMOzdhHvl4Buey31k?usp=sharing
 
 
 An intelligent assistant with persistent memory built using LLM that remembers user information and provides knowledgeable responses.
