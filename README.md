@@ -1,6 +1,6 @@
 # AI Agent: Memory-Augmented LLM Assistant
 
-## Link to the project: https://colab.research.google.com/drive/1ziu5ntvfhuzZ2_6yMOzdhHvl4Buey31k?usp=sharing
+***Link to the project:*** https://colab.research.google.com/drive/1ziu5ntvfhuzZ2_6yMOzdhHvl4Buey31k?usp=sharing
 
 
 An intelligent assistant with persistent memory built using LLM that remembers user information and provides knowledgeable responses.
@@ -50,14 +50,19 @@ This AI assistant is particularly valuable for:
 | "Do you remember my name?" | "Yes, I remember that your name is Florent. If you have any questions or need assistance, feel free to ask." |
 | "What is the square root of 100?" | "The square root of 100 is 10. The square of 10 is 100." |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ## System Architecture:
 
 User Interface (Gradio)
+
        ↓
+       
 Memory Manager (JSON storage)
+
        ↓
+       
 Large Language Model
        ↓
+       
 Response Generator
